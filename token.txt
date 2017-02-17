@@ -1,0 +1,23 @@
+# obtained from rongcloud
+
+result
+{"code":200,"userId":"liyp","token":"MSj5ApTgpvwrQoupM2R3sfhJ+LSWphCHE+/oC0b/YHPmWlr46cLgMcZyHvsx4hdQgeWbUuSOIBZ4FcFDMDKcvQ=="}
+
+## HTTP Request
+POST /user/getToken.json HTTP/1.1
+Host: api.cn.ronghub.com
+App-Key: n19jmcy5ni9j9
+Nonce: 62297761
+Timestamp: 1487299322
+Signature: 5629018dfa6499b48e8dc4087aa665cbcad5ea62
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 19 
+
+userId=liyp&name=yp
+
+## HTTP Response
+HTTP/1.1 200
+Content-Type: application/json;charset=utf-8
+Content-Length: 127
+
+{"code":200,"userId":"liyp","token":"MSj5ApTgpvwrQoupM2R3sfhJ+LSWphCHE+/oC0b/YHPmWlr46cLgMcZyHvsx4hdQgeWbUuSOIBZ4FcFDMDKcvQ=="}
