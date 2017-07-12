@@ -12,8 +12,6 @@ import static io.rong.imkit.RongIM.connect;
 
 public class MainActivity extends Activity {
 
-    private static final String token2 = "MSj5ApTgpvwrQoupM2R3sfhJ+LSWphCHE+/oC0b/YHPmWlr46cLgMcZyHvsx4hdQgeWbUuSOIBZ4FcFDMDKcvQ==";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

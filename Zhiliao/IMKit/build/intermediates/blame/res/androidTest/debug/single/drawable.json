@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_bg_sidebar.xml",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable\\rc_bg_sidebar.xml"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_sp_grid_mask.xml",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable\\rc_sp_grid_mask.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_bg_sidebar.xml",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable\\rc_bg_sidebar.xml"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_white_bg_shape.xml",

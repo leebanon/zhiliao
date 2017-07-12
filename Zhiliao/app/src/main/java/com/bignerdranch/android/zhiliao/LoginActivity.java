@@ -17,8 +17,7 @@ import java.util.Map;
 
 import io.rong.imkit.RongIM;
 import io.rong.imlib.RongIMClient;
-import utils.DemoContext;
-import utils.NetUtils;
+import com.bignerdranch.android.zhiliao.utils.NetUtils;
 
 /**
  * Created by Administrator on 2/18/2017.
@@ -26,6 +25,7 @@ import utils.NetUtils;
 
 public class LoginActivity extends Activity {
     private String token1;
+    //private static final String token3 = "MSj5ApTgpvwrQoupM2R3sfhJ+LSWphCHE+/oC0b/YHPmWlr46cLgMcZyHvsx4hdQgeWbUuSOIBZ4FcFDMDKcvQ==";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -37,8 +37,8 @@ public class LoginActivity extends Activity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                sign_in();
+                Log.d("success,","success click");
+                login();
             }
         });
 
@@ -47,7 +47,7 @@ public class LoginActivity extends Activity {
     /**
      * 用户登录，用户登录成功，获得 cookie，将cookie 保存
      */
-    private void sign_in() {
+    private void login() {
 
         new AsyncTask<Void, Void, String>() {
 
@@ -141,7 +141,7 @@ public class LoginActivity extends Activity {
                 public void onSuccess(String userid) {
 
                     Log.d("LoginActivity", "--onSuccess" + userid);
-                    startActivity(new Intent(LoginActivity.this, MainActivity.class));
+                    startActivity(new Intent(LoginActivity.this, ConversationListActivity.class));
                     finish();
                 }
 

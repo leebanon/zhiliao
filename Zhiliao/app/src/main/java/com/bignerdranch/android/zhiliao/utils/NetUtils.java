@@ -1,4 +1,4 @@
-package utils;
+package com.bignerdranch.android.zhiliao.utils;
 
 import android.content.SharedPreferences;
 import android.text.TextUtils;
@@ -16,12 +16,13 @@ import org.apache.http.impl.client.AbstractHttpClient;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
-import java.net.HttpURLConnection;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+
+import com.bignerdranch.android.zhiliao.DemoContext;
 
 
 public class NetUtils {

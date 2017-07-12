@@ -1,4 +1,4 @@
-package utils;
+package com.bignerdranch.android.zhiliao;
 
 import android.content.Context;
 import android.content.SharedPreferences;

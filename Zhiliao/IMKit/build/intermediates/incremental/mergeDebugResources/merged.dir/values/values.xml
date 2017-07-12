@@ -370,12 +370,10 @@
     <bool name="rc_enable_mentioned_message">false</bool>
     <bool name="rc_enable_message_recall">false</bool>
     <bool name="rc_enable_sync_read_status">false</bool>
-    <bool name="rc_extension_history">false</bool>
     <bool name="rc_is_show_warning_notification">true</bool>
     <bool name="rc_play_audio_continuous">true</bool>
     <bool name="rc_read_receipt">false</bool>
     <bool name="rc_stop_custom_service_when_quit">true</bool>
-    <bool name="rc_typing_status">false</bool>
     <color name="rc_ad_file_list_no_select_file_text_state">#9fcdfd</color>
     <color name="rc_ad_file_list_select_file_text_state">#ffffff</color>
     <color name="rc_conversation_list_divider_color">#dfdfdd</color>
@@ -494,11 +492,8 @@
     <item name="rc_unread_message" type="id"/>
     <item name="rc_unread_message_right" type="id"/>
     <item name="rc_warning" type="id"/>
-    <integer name="rc_audio_encoding_bit_rate">7950</integer>
     <integer name="rc_chatroom_first_pull_message_count">10</integer>
     <integer name="rc_custom_service_evaluation_interval">60</integer>
-    <integer name="rc_image_quality">85</integer>
-    <integer name="rc_image_size">960</integer>
     <integer name="rc_message_recall_interval">120</integer>
     <string name="rc_ac_file_download_btn">开始下载</string>
     <string name="rc_ac_file_download_open_file_btn">用其他应用打开</string>
@@ -627,7 +622,6 @@
     <string name="rc_info_not_in_chatroom">你不在该聊天室</string>
     <string name="rc_info_not_in_discussion">你不在该讨论组</string>
     <string name="rc_info_not_in_group">你不在该群</string>
-    <string name="rc_init_failed">连接客服失败</string>
     <string name="rc_input_send">发送</string>
     <string name="rc_input_voice">按住 说话</string>
     <string name="rc_item_change_group_name">%1$s修改群名称为%2$s</string>
@@ -649,9 +643,7 @@
     <string name="rc_kicked_from_chatroom">你已被踢出聊天室</string>
     <string name="rc_location_fail">定位失败</string>
     <string name="rc_location_fetching">获取中……</string>
-    <string name="rc_location_sharing_ended">位置共享已结束</string>
     <string name="rc_location_sharing_exceed_max">超过最大位置共享人数</string>
-    <string name="rc_media_message_default_save_path">/RongCloud/Media/</string>
     <string name="rc_message_content_draft">[草稿]</string>
     <string name="rc_message_content_file">[文件]</string>
     <string name="rc_message_content_image">[图片]</string>
@@ -683,9 +675,6 @@
     <string name="rc_notice_network_unavailable">网络连接不可用</string>
     <string name="rc_notice_select_one_picture_at_last">请至少选择一张图片</string>
     <string name="rc_notice_tick">该帐号已经在其他设备登录</string>
-    <string name="rc_notification_new_msg">%1$s发来了%2$d条消息</string>
-    <string name="rc_notification_new_plural_msg">%1$d个联系人发来了%2$d条消息</string>
-    <string name="rc_notification_ticker_text">您有了一条新消息</string>
     <string name="rc_other_is_sharing_location">%s正在共享位置</string>
     <string name="rc_others_are_sharing_location">%d人正在共享位置</string>
     <string name="rc_permission_camera">（相机）。</string>
@@ -718,7 +707,6 @@
     <string name="rc_pub_service_info_enter">进入公众号</string>
     <string name="rc_pub_service_info_follow">关注</string>
     <string name="rc_pub_service_info_unfollow">取消关注</string>
-    <string name="rc_quit_custom_service">客服已结束</string>
     <string name="rc_read_all">阅读全文</string>
     <string name="rc_read_receipt_status">%d人已读</string>
     <string name="rc_real_time_exit_notification">离开会话，位置共享也会结束，确定离开？</string>

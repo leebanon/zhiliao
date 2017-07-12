@@ -8,12 +8,12 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ext_location_tip.png"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f606.png",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f606.png"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_pb_file_download_progress_background.9.png",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_pb_file_download_progress_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f606.png",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f606.png"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f437.png",
@@ -36,24 +36,24 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_picsel_back_normal.png"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f623.png",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f623.png"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_picsel_empty_pic.png",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_picsel_empty_pic.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f623.png",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f623.png"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f384.png",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f384.png"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_real_time_location_exit.png",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_real_time_location_exit.png"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_picture.png",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_file_icon_picture.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_real_time_location_exit.png",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_real_time_location_exit.png"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f52b.png",

@@ -20,12 +20,12 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_ext_input_edit_text.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_dialog_popup_prompt_warning.xml",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_dialog_popup_prompt_warning.xml"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_ext_menu_container.xml",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_ext_menu_container.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_dialog_popup_prompt_warning.xml",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_dialog_popup_prompt_warning.xml"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_public_service_multi_rich_content_message.xml",

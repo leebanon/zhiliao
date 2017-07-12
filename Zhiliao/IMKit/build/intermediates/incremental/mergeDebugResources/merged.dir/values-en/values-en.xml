@@ -112,7 +112,6 @@
     <string name="rc_info_not_in_chatroom">You are not in current chat room</string>
     <string name="rc_info_not_in_discussion">You are not in current discussion</string>
     <string name="rc_info_not_in_group">You are not in current group</string>
-    <string name="rc_init_failed">Failed Connect Custom Service</string>
     <string name="rc_input_send">Send</string>
     <string name="rc_input_voice">Hold to Talk</string>
     <string name="rc_item_change_group_name">%1$s changed the group name to %2$s</string>
@@ -134,7 +133,6 @@
     <string name="rc_kicked_from_chatroom">You were kicked from current chatroom</string>
     <string name="rc_location_fail">Failed to locate</string>
     <string name="rc_location_fetching">Fetching……</string>
-    <string name="rc_location_sharing_ended">Real-time Location session ended.</string>
     <string name="rc_location_sharing_exceed_max">Maximum number exceed </string>
     <string name="rc_message_content_draft">[Draft]</string>
     <string name="rc_message_content_file">[File]</string>
@@ -167,9 +165,6 @@
     <string name="rc_notice_network_unavailable">Network unavailable</string>
     <string name="rc_notice_select_one_picture_at_last">Please select at least a picture</string>
     <string name="rc_notice_tick">The account has been logged in to other devices</string>
-    <string name="rc_notification_new_msg">%1$s sent %2$d messages</string>
-    <string name="rc_notification_new_plural_msg">%1$d contacts sent %2$d messages</string>
-    <string name="rc_notification_ticker_text">You have a new message</string>
     <string name="rc_other_is_sharing_location">%s are sharing location</string>
     <string name="rc_others_are_sharing_location">%d persons are sharing location</string>
     <string name="rc_permission_camera">(Camera).</string>
@@ -203,7 +198,6 @@
     <string name="rc_pub_service_info_enter">Enter Official Account</string>
     <string name="rc_pub_service_info_follow">Follow</string>
     <string name="rc_pub_service_info_unfollow">Unfollow</string>
-    <string name="rc_quit_custom_service">Custom Service Have Quit</string>
     <string name="rc_read_all">Read All</string>
     <string name="rc_read_receipt_status">%d read</string>
     <string name="rc_real_time_location_sharing">Location sharing...</string>

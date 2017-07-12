@@ -12,12 +12,12 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_loading.png"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f60d.png",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f60d.png"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_files_normal.png",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_ic_files_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f60d.png",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f60d.png"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f319.png",
@@ -72,12 +72,12 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f35a.png"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f6b2.png",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f6b2.png"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_location_pressed.png",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_ic_location_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f6b2.png",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f6b2.png"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_volume_3.png",

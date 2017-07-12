@@ -16,12 +16,12 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable\\rc_ac_btn_file_download_open_button.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_emotion_toggle_selector.xml",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable\\rc_emotion_toggle_selector.xml"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_emoji_grid_item_selector.xml",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable\\rc_emoji_grid_item_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_emotion_toggle_selector.xml",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\drawable\\rc_emotion_toggle_selector.xml"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_keyboard_selector.xml",

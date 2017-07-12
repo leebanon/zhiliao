@@ -36,12 +36,12 @@
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\layout\\rc_item_discussion_notification_message.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_rich_content_message.xml",
-        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\layout\\rc_item_public_service_rich_content_message.xml"
-    },
-    {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ext_plugin_grid_view.xml",
         "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\layout\\rc_ext_plugin_grid_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_rich_content_message.xml",
+        "source": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\src\\main\\res\\layout\\rc_item_public_service_rich_content_message.xml"
     },
     {
         "merged": "E:\\AndroidProject\\test\\Zhiliao\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_activity.xml",
